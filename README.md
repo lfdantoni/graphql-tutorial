@@ -4,4 +4,4 @@ On one terminal
 > npm run json:server
 
 On onther terminal
-> dev:server
+> npm run dev:server
